@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 # 54th Clinical Aphasiology Conference Schedule
 ## Albuquerque, New Mexico, USA | May 27-31, 2025
@@ -176,9 +174,7 @@ layout: default
 
 *All times listed are U.S. Mountain Time Zone*
 
-## Platform Session Summary Table
-
-<div style="overflow-x: auto;">
+## Platform Session Summary 
 
 | Day | Time | Platform Session Title | Talk Title | Full Author List |
 |-----|------|------------------------|------------|------------------|
@@ -206,4 +202,3 @@ layout: default
 | Saturday, May 31 | 4:50-5:20 PM | Platform Session 11: Assessing Mild Aphasia | Attention deficits in latent aphasia | Emily Sebranek, Arianna LaCroix |
 | Saturday, May 31 | 5:20-5:50 PM | Platform Session 11: Assessing Mild Aphasia | BATS story retelling: A communication outcome measurement instrument sensitive to subclinical aphasia | Jacquie Kurland, Anna Liu, Polly Stokes |
 
-</div>
