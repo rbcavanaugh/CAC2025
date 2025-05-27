@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 54th Clinical Aphasiology Conference Schedule
 ## Albuquerque, New Mexico, USA | May 27-31, 2025
 
